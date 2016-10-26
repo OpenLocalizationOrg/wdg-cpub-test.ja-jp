@@ -5,9 +5,9 @@
  -------- | ----- 
  Total Files | 2472
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 1459
+[ Handoff Success Files ](#handoff-success-list)| 1436
 [ Archive Failed Files ](#archive-failed-list)| 0
-[ Archive Success Files ](#archive-success-list)| 119
+[ Archive Success Files ](#archive-success-list)| 142
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
 [ In Sync Handback Files ](#insync-handback-success-list)| 0
@@ -18,8 +18,6 @@
 ## <a name='handoff-success-list'></a> Handoff Success File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [wdg-cpub-test\dhale\dev_accessibility\readme.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/dhale/dev_accessibility/readme.md) | HandedOffSuccess | [Details](#3c246d6c393687dbeff05e58303c204713ba80a49)
- [wdg-cpub-test\domars\Directions_To_Update_Existing_Topic_Using_Browser.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/domars/Directions_To_Update_Existing_Topic_Using_Browser.md) | HandedOffSuccess | [Details](#a741d9d780ec642c3d6a5e41a1e624f322762e5311)
  [wdg-cpub-test\get-app-acquisitions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/9ddbf3db2b60d1ac98636619bf281d38d08390e2/wdg-cpub-test/get-app-acquisitions.md) | HandedOffSuccess | [Details](#b9bbaa91c7e66e8d891bdad069fadc6efa1acfe919)
  [wdg-cpub-test\HoverTest\browsers\edge\available-policies.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/c8acdbf0107af1f782d1f4316d6ba408bc5f8430/wdg-cpub-test/HoverTest/browsers/edge/available-policies.md) | HandedOffSuccess | [Details](#637e8ac02e73701ec87d595a77168d269ff81a9920)
  [wdg-cpub-test\HoverTest\browsers\edge\change-history-for-microsoft-edge.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/c8acdbf0107af1f782d1f4316d6ba408bc5f8430/wdg-cpub-test/HoverTest/browsers/edge/change-history-for-microsoft-edge.md) | HandedOffSuccess | [Details](#956c5872221526bb996aedf4d14d51a5130f349521)
@@ -180,24 +178,8 @@
  [wdg-cpub-test\HoverTest\browsers\internet-explorer\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/c8acdbf0107af1f782d1f4316d6ba408bc5f8430/wdg-cpub-test/HoverTest/browsers/internet-explorer/index.md) | HandedOffSuccess | [Details](#2a13dd50440aee983f502f3bc6b01e9f9baa0ffd215)
  [wdg-cpub-test\HoverTest\browsers\internet-explorer\TOC.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/c8acdbf0107af1f782d1f4316d6ba408bc5f8430/wdg-cpub-test/HoverTest/browsers/internet-explorer/TOC.md) | HandedOffSuccess | [Details](#636657a168851e991e5d096ce5dfed55e5728bb9217)
  [wdg-cpub-test\HoverTest\browsers\TOC.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/c8acdbf0107af1f782d1f4316d6ba408bc5f8430/wdg-cpub-test/HoverTest/browsers/TOC.md) | HandedOffSuccess | [Details](#b50ceeefd0f830eb9acca51d0a94b1dcf4335bb9218)
- [wdg-cpub-test\iawilt\iawilt_test\test.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/iawilt/iawilt_test/test.md) | HandedOffSuccess | [Details](#d95b5b3cbef2c509c1ba71b6aa0160e169ca8613220)
  [wdg-cpub-test\included\1.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/285d215583ed33400c6fc26dbc1ed8c02c3ff9df/wdg-cpub-test/included/1.md) | HandedOffSuccess | [Details](#7bae8076a5771865123be7112468b79e9d78a640224)
  [wdg-cpub-test\included\2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/fce1314f669995dae57bd4ac51171cee32625731/wdg-cpub-test/included/2.md) | HandedOffSuccess | [Details](#b80abfe77bd3b598ff714a01d33ffd1fe9013876225)
- [wdg-cpub-test\jasgro\JasGro-home.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/jasgro/JasGro-home.md) | HandedOffSuccess | [Details](#cbb6ae5c57d8d761681fb03d14a954f90221f4f3226)
- [wdg-cpub-test\jasgro\table_creation_tools.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/jasgro/table_creation_tools.md) | HandedOffSuccess | [Details](#c63d097a2994905d3bd60489a77501cb88f8b3e4227)
- [wdg-cpub-test\jasgro\test1.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/jasgro/test1.md) | HandedOffSuccess | [Details](#debc9d4a4e6dc2685ec69918dab690b9f1fc010b228)
- [wdg-cpub-test\jasgro\test2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/jasgro/test2.md) | HandedOffSuccess | [Details](#647ebfda6781b808b9ac43674f5033240c554c50229)
- [wdg-cpub-test\jasgro\tools-for-beginners.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/jasgro/tools-for-beginners.md) | HandedOffSuccess | [Details](#e0dd374c1c5c5936fb4ebc3ee7d0e48e308d1cbb230)
- [wdg-cpub-test\joshbax\HelloWorld.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/joshbax/HelloWorld.md) | HandedOffSuccess | [Details](#349ce1064b5a40ff1b65f37fbf8d7fc136d78556231)
- [wdg-cpub-test\joshbax\HelloWorld2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/c8acdbf0107af1f782d1f4316d6ba408bc5f8430/wdg-cpub-test/joshbax/HelloWorld2.md) | HandedOffSuccess | [Details](#349ce1064b5a40ff1b65f37fbf8d7fc136d78556232)
- [wdg-cpub-test\joshbax\HelloWorld3.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/c8acdbf0107af1f782d1f4316d6ba408bc5f8430/wdg-cpub-test/joshbax/HelloWorld3.md) | HandedOffSuccess | [Details](#349ce1064b5a40ff1b65f37fbf8d7fc136d78556233)
- [wdg-cpub-test\joshbax\HelloWorld4.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/c8acdbf0107af1f782d1f4316d6ba408bc5f8430/wdg-cpub-test/joshbax/HelloWorld4.md) | HandedOffSuccess | [Details](#349ce1064b5a40ff1b65f37fbf8d7fc136d78556234)
- [wdg-cpub-test\joshbax\HelloWorld5.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/c8acdbf0107af1f782d1f4316d6ba408bc5f8430/wdg-cpub-test/joshbax/HelloWorld5.md) | HandedOffSuccess | [Details](#349ce1064b5a40ff1b65f37fbf8d7fc136d78556235)
- [wdg-cpub-test\lizross\available_policies.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/lizross/available_policies.md) | HandedOffSuccess | [Details](#fa27b37a6be2f8e0887ce2a56559c5c4c943fdac236)
- [wdg-cpub-test\lizross\emie_to_improve_compatibility.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/lizross/emie_to_improve_compatibility.md) | HandedOffSuccess | [Details](#2df16f5bb8361cadf656d1e62eddf9aba2ceb458237)
- [wdg-cpub-test\lizross\hardware_and_software_requirements.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/lizross/hardware_and_software_requirements.md) | HandedOffSuccess | [Details](#5d05b35b340b2dfcb038c9e10880f3c5a902c777238)
- [wdg-cpub-test\lizross\msedge_deployment_guide_for_it_pros.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/lizross/msedge_deployment_guide_for_it_pros.md) | HandedOffSuccess | [Details](#83798705e69956b02a318460bed8affa5c0e7c79243)
- [wdg-cpub-test\macapara\macapara.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/macapara/macapara.md) | HandedOffSuccess | [Details](#7bba6bedea2fc998a7102e9f9a822c89f580921c244)
  [wdg-cpub-test\ndolci\debug-test-perf\best-practices-for-your-app-s-startup-performance.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/best-practices-for-your-app-s-startup-performance.md) | HandedOffSuccess | [Details](#be88c0d132c573bfc8958ccbc8fc9b95718b0321245)
  [wdg-cpub-test\ndolci\debug-test-perf\beta-testing.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/beta-testing.md) | HandedOffSuccess | [Details](#737b2a64d7a96bc90c19a10d4e754e2c2f075b98246)
  [wdg-cpub-test\ndolci\debug-test-perf\debugging-and-testing-apps-portal.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/ndolci/debug-test-perf/debugging-and-testing-apps-portal.md) | HandedOffSuccess | [Details](#3e0f69dac4bda8a9f481d74dda8740da2d6fc268247)
@@ -1274,13 +1256,8 @@
  [wdg-cpub-test\ndolciTestTDReach\audio-video-camera\transcode-media-files.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/015108445108522621f90863a4d5a9637f8484dd/wdg-cpub-test/ndolciTestTDReach/audio-video-camera/transcode-media-files.md) | HandedOffSuccess | [Details](#06c452291f10acd35dde9659c08a386ea38fa90a2255)
  [wdg-cpub-test\ndolciTestTDReach\audio-video-camera\variable-photo-sequence.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/015108445108522621f90863a4d5a9637f8484dd/wdg-cpub-test/ndolciTestTDReach/audio-video-camera/variable-photo-sequence.md) | HandedOffSuccess | [Details](#c6be6c0ea255c38bba65550ae44c7f88c140ca0f2256)
  [wdg-cpub-test\new_extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/04c9c004728d8e4dc0cd570bf4e1b4a6ac327dfc/wdg-cpub-test/new_extension.md) | HandedOffSuccess | [Details](#b7e8d8638d928212045c967a4455299abc12643d2257)
- [wdg-cpub-test\tedhudek\markdown-tips.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/tedhudek/markdown-tips.md) | HandedOffSuccess | [Details](#c24bc1363e530c71c8a263f6e9c8743a949642d82258)
- [wdg-cpub-test\tedhudek\tedhudek-home.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/tedhudek/tedhudek-home.md) | HandedOffSuccess | [Details](#347bd1181dc590d634f5032591cc574f3786c9822259)
- [wdg-cpub-test\tedhudek\wdcml-to-open-publish.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/tedhudek/wdcml-to-open-publish.md) | HandedOffSuccess | [Details](#65a5708190ddfe0bc61006985f5c3f17eafc86562260)
- [wdg-cpub-test\tedhudek\workflow.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/tedhudek/workflow.md) | HandedOffSuccess | [Details](#6a21b92dfe46a00d5243914c41459fe2cf4569b12261)
  [wdg-cpub-test\testhtml.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/730e19953dcd6d4a0396c71a57192536084d0ac2/wdg-cpub-test/testhtml.md) | HandedOffSuccess | [Details](#007206c8ebe98d26c62e908fea231470cccbd2b42263)
  [wdg-cpub-test\test-xliff-2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/174bb04cd8a312735024d4ae92a2bfd3cc8c2f9e/wdg-cpub-test/test-xliff-2.md) | HandedOffSuccess | [Details](#5810d7bc839c7c1efa60f960dd71475c986eae7d2262)
- [wdg-cpub-test\TOC.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/TOC.md) | HandedOffSuccess | [Details](#1a4983ce48e441c39272f65d1655d8c7ca2b49702264)
  [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\analyzing_driver_quality_by_using_code_analysis_tools.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/analyzing_driver_quality_by_using_code_analysis_tools.md) | HandedOffSuccess | [Details](#0b3ee6df3f0d18a76ffbbd3f9ca61f0a2b9efc392265)
  [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\attestation_signing_a_kernel_driver_for_public_release.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/attestation_signing_a_kernel_driver_for_public_release.md) | HandedOffSuccess | [Details](#bc1bd22aaf8c51a4835b167542d48012081149092266)
  [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\avoiding_floating_point_errors_in_custom_build_environments.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/avoiding_floating_point_errors_in_custom_build_environments.md) | HandedOffSuccess | [Details](#16ae34742832f17eebb3d8dfbaa08ab57ce9bfb82267)
@@ -1483,6 +1460,8 @@
 ## <a name='archive-success-list'></a> Archive Success File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
+ [wdg-cpub-test\dhale\dev_accessibility\readme.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/dhale/dev_accessibility/readme.md) | ArchivedSuccess | [Details](#3c246d6c393687dbeff05e58303c204713ba80a49)
+ [wdg-cpub-test\domars\Directions_To_Update_Existing_Topic_Using_Browser.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/domars/Directions_To_Update_Existing_Topic_Using_Browser.md) | ArchivedSuccess | [Details](#a741d9d780ec642c3d6a5e41a1e624f322762e5311)
  [wdg-cpub-test\domars\images\Browser_Commit_Changes_Screen_Shot.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/domars/images/Browser_Commit_Changes_Screen_Shot.png) | ArchivedSuccess | [Details](#044a112ca2e00f71a2a8d04b2e9aa8bd2628f5ed12)
  [wdg-cpub-test\domars\images\Browser_Comparing_Changes_Screen_Shot.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/domars/images/Browser_Comparing_Changes_Screen_Shot.png) | ArchivedSuccess | [Details](#3dcb3c57b957dd388a5115f830f1c1cb2cf6936e13)
  [wdg-cpub-test\domars\images\Browser_Edit_Button_Screen_Shot.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/domars/images/Browser_Edit_Button_Screen_Shot.png) | ArchivedSuccess | [Details](#36f650b486398eec8dda23bcce6de967a49b842514)
@@ -1524,13 +1503,29 @@
  [wdg-cpub-test\HoverTest\browsers\internet-explorer\ie11-deploy-guide\images\setdefaultbrowsergp.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/c8acdbf0107af1f782d1f4316d6ba408bc5f8430/wdg-cpub-test/HoverTest/browsers/internet-explorer/ie11-deploy-guide/images/setdefaultbrowsergp.png) | ArchivedSuccess | [Details](#d908f9291bb26002f0b34875972eb6e9cf9f2efc106)
  [wdg-cpub-test\HoverTest\browsers\internet-explorer\ie11-deploy-guide\images\wedge.gif](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/c8acdbf0107af1f782d1f4316d6ba408bc5f8430/wdg-cpub-test/HoverTest/browsers/internet-explorer/ie11-deploy-guide/images/wedge.gif) | ArchivedSuccess | [Details](#cb4c1f48a6689d260b479437f66a250a5bf5d7fd107)
  [wdg-cpub-test\HoverTest\browsers\internet-explorer\ie11-ieak\images\wedge.gif](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/c8acdbf0107af1f782d1f4316d6ba408bc5f8430/wdg-cpub-test/HoverTest/browsers/internet-explorer/ie11-ieak/images/wedge.gif) | ArchivedSuccess | [Details](#cb4c1f48a6689d260b479437f66a250a5bf5d7fd189)
+ [wdg-cpub-test\iawilt\iawilt_test\test.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/iawilt/iawilt_test/test.md) | ArchivedSuccess | [Details](#d95b5b3cbef2c509c1ba71b6aa0160e169ca8613220)
  [wdg-cpub-test\images\github-logo.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/images/github-logo.png) | ArchivedSuccess | [Details](#90d7dca36f340986a0c7b98525226d3fd282aa6a221)
  [wdg-cpub-test\images\jasgro\pigeon.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/images/jasgro/pigeon.png) | ArchivedSuccess | [Details](#51b695b5f279ee59c19fa59c6b5b4b9ed521ef8e222)
  [wdg-cpub-test\images\markdown-logo.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/images/markdown-logo.png) | ArchivedSuccess | [Details](#ced6981729e25a31e25e8bbac32f2a822851abb0223)
+ [wdg-cpub-test\jasgro\JasGro-home.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/jasgro/JasGro-home.md) | ArchivedSuccess | [Details](#cbb6ae5c57d8d761681fb03d14a954f90221f4f3226)
+ [wdg-cpub-test\jasgro\table_creation_tools.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/jasgro/table_creation_tools.md) | ArchivedSuccess | [Details](#c63d097a2994905d3bd60489a77501cb88f8b3e4227)
+ [wdg-cpub-test\jasgro\test1.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/jasgro/test1.md) | ArchivedSuccess | [Details](#debc9d4a4e6dc2685ec69918dab690b9f1fc010b228)
+ [wdg-cpub-test\jasgro\test2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/jasgro/test2.md) | ArchivedSuccess | [Details](#647ebfda6781b808b9ac43674f5033240c554c50229)
+ [wdg-cpub-test\jasgro\tools-for-beginners.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/jasgro/tools-for-beginners.md) | ArchivedSuccess | [Details](#e0dd374c1c5c5936fb4ebc3ee7d0e48e308d1cbb230)
+ [wdg-cpub-test\joshbax\HelloWorld.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/joshbax/HelloWorld.md) | ArchivedSuccess | [Details](#349ce1064b5a40ff1b65f37fbf8d7fc136d78556231)
+ [wdg-cpub-test\joshbax\HelloWorld2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/c8acdbf0107af1f782d1f4316d6ba408bc5f8430/wdg-cpub-test/joshbax/HelloWorld2.md) | ArchivedSuccess | [Details](#349ce1064b5a40ff1b65f37fbf8d7fc136d78556232)
+ [wdg-cpub-test\joshbax\HelloWorld3.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/c8acdbf0107af1f782d1f4316d6ba408bc5f8430/wdg-cpub-test/joshbax/HelloWorld3.md) | ArchivedSuccess | [Details](#349ce1064b5a40ff1b65f37fbf8d7fc136d78556233)
+ [wdg-cpub-test\joshbax\HelloWorld4.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/c8acdbf0107af1f782d1f4316d6ba408bc5f8430/wdg-cpub-test/joshbax/HelloWorld4.md) | ArchivedSuccess | [Details](#349ce1064b5a40ff1b65f37fbf8d7fc136d78556234)
+ [wdg-cpub-test\joshbax\HelloWorld5.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/c8acdbf0107af1f782d1f4316d6ba408bc5f8430/wdg-cpub-test/joshbax/HelloWorld5.md) | ArchivedSuccess | [Details](#349ce1064b5a40ff1b65f37fbf8d7fc136d78556235)
+ [wdg-cpub-test\lizross\available_policies.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/lizross/available_policies.md) | ArchivedSuccess | [Details](#fa27b37a6be2f8e0887ce2a56559c5c4c943fdac236)
+ [wdg-cpub-test\lizross\emie_to_improve_compatibility.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/lizross/emie_to_improve_compatibility.md) | ArchivedSuccess | [Details](#2df16f5bb8361cadf656d1e62eddf9aba2ceb458237)
+ [wdg-cpub-test\lizross\hardware_and_software_requirements.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/lizross/hardware_and_software_requirements.md) | ArchivedSuccess | [Details](#5d05b35b340b2dfcb038c9e10880f3c5a902c777238)
  [wdg-cpub-test\lizross\images\Edge_EmIE_GroupPolicySiteList.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/c8acdbf0107af1f782d1f4316d6ba408bc5f8430/wdg-cpub-test/lizross/images/Edge_EmIE_GroupPolicySiteList.png) | ArchivedSuccess | [Details](#3db200b5df5b492cd6cfcc04c59db9a3bffc1db1239)
  [wdg-cpub-test\lizross\images\Edge_EmIE_RegistrySiteList.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/c8acdbf0107af1f782d1f4316d6ba408bc5f8430/wdg-cpub-test/lizross/images/Edge_EmIE_RegistrySiteList.png) | ArchivedSuccess | [Details](#c4ad8cd0e62f8f177e1b945b19b0ae2667a08e51240)
  [wdg-cpub-test\lizross\images\EmIEOpeninIE.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/c8acdbf0107af1f782d1f4316d6ba408bc5f8430/wdg-cpub-test/lizross/images/EmIEOpeninIE.png) | ArchivedSuccess | [Details](#c60b61e09592ccc99e5af898dcef91d310e8d794241)
  [wdg-cpub-test\lizross\images\SendintranettoIE.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/c8acdbf0107af1f782d1f4316d6ba408bc5f8430/wdg-cpub-test/lizross/images/SendintranettoIE.png) | ArchivedSuccess | [Details](#13db3344d2ab0ff7d5350584470566ac2b128e12242)
+ [wdg-cpub-test\lizross\msedge_deployment_guide_for_it_pros.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/lizross/msedge_deployment_guide_for_it_pros.md) | ArchivedSuccess | [Details](#83798705e69956b02a318460bed8affa5c0e7c79243)
+ [wdg-cpub-test\macapara\macapara.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/macapara/macapara.md) | ArchivedSuccess | [Details](#7bba6bedea2fc998a7102e9f9a822c89f580921c244)
  [wdg-cpub-test\ndolci\debug-test-perf\images\debug-device-target-list.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/images/debug-device-target-list.png) | ArchivedSuccess | [Details](#de64362d21f090b76586193191ed6df624521fd0249)
  [wdg-cpub-test\ndolci\debug-test-perf\images\debug-property-pages.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/images/debug-property-pages.png) | ArchivedSuccess | [Details](#be67298c637f11a63d6f7973c658b7d7258fbc96250)
  [wdg-cpub-test\ndolci\debug-test-perf\images\debug-remote-connections.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/images/debug-remote-connections.png) | ArchivedSuccess | [Details](#3c13afd3c3794a7173390bb719c152d2be9ae622251)
@@ -1593,6 +1588,11 @@
  [wdg-cpub-test\ndolciTestTDReach\audio-video-camera\images\backround-audio-architecture-win10.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/015108445108522621f90863a4d5a9637f8484dd/wdg-cpub-test/ndolciTestTDReach/audio-video-camera/images/backround-audio-architecture-win10.png) | ArchivedSuccess | [Details](#472a53e7432686fd2d1afa6cd0cad6de2ea7d81c2238)
  [wdg-cpub-test\ndolciTestTDReach\audio-video-camera\images\media-element-casting-button.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/015108445108522621f90863a4d5a9637f8484dd/wdg-cpub-test/ndolciTestTDReach/audio-video-camera/images/media-element-casting-button.png) | ArchivedSuccess | [Details](#d4995c7c3aea5045bb9da1870774fe80bb64cf962239)
  [wdg-cpub-test\ndolciTestTDReach\audio-video-camera\images\windowsteecomponentdiagram720.jpg](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/015108445108522621f90863a4d5a9637f8484dd/wdg-cpub-test/ndolciTestTDReach/audio-video-camera/images/windowsteecomponentdiagram720.jpg) | ArchivedSuccess | [Details](#0464adcc52453321ca70c2b962c42a432ae7f5b22240)
+ [wdg-cpub-test\tedhudek\markdown-tips.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/tedhudek/markdown-tips.md) | ArchivedSuccess | [Details](#c24bc1363e530c71c8a263f6e9c8743a949642d82258)
+ [wdg-cpub-test\tedhudek\tedhudek-home.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/tedhudek/tedhudek-home.md) | ArchivedSuccess | [Details](#347bd1181dc590d634f5032591cc574f3786c9822259)
+ [wdg-cpub-test\tedhudek\wdcml-to-open-publish.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/tedhudek/wdcml-to-open-publish.md) | ArchivedSuccess | [Details](#65a5708190ddfe0bc61006985f5c3f17eafc86562260)
+ [wdg-cpub-test\tedhudek\workflow.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/tedhudek/workflow.md) | ArchivedSuccess | [Details](#6a21b92dfe46a00d5243914c41459fe2cf4569b12261)
+ [wdg-cpub-test\TOC.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/TOC.md) | ArchivedSuccess | [Details](#1a4983ce48e441c39272f65d1655d8c7ca2b49702264)
  [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\common\wedge.gif](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/c8acdbf0107af1f782d1f4316d6ba408bc5f8430/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/common/wedge.gif) | ArchivedSuccess | [Details](#cb4c1f48a6689d260b479437f66a250a5bf5d7fd2270)
  [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\attestation_driver_signing_submission_dashboard.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/attestation_driver_signing_submission_dashboard.png) | ArchivedSuccess | [Details](#e0f09dec7a25d3016140c132c7e6f0411589b8f32296)
  [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\b_wes_driversigning_v2.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/b_wes_driversigning_v2.png) | ArchivedSuccess | [Details](#21987b89a2bd6120f2fbb8084c822d6cf0f5b73e2297)
@@ -2617,13 +2617,13 @@
 * [Back to Top](#report-top)
 
 ##### <a name='3c246d6c393687dbeff05e58303c204713ba80a49'></a> Source: [wdg-cpub-test\dhale\dev_accessibility\readme.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/dhale/dev_accessibility/readme.md)
-* Status: HandedOffSuccess
+* Status: ArchivedSuccess
 * Target File: 
 * Handoff File: [readme.af6253305c53dd1b0aae6b09cb2e883c85e0a5f1.ja-jp.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/abc28cad179de3763e0539fcdf3986672cca4b05/ol-handoff/en-us.wdg-cpub-test/readme.af6253305c53dd1b0aae6b09cb2e883c85e0a5f1.ja-jp.xlf)
 * Handoff Datetime: 2016-10-25 00:09:25
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [readme.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/6be80f4e07fad61b9df466be59629d47777ae785/ol-archive/en-us.wdg-cpub-test/wdg-cpub-test/dhale/dev_accessibility/readme.xlf)
+* Archive Datetime: 2016-10-26 21:31:21
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2641,13 +2641,13 @@
 * [Back to Top](#report-top)
 
 ##### <a name='a741d9d780ec642c3d6a5e41a1e624f322762e5311'></a> Source: [wdg-cpub-test\domars\Directions_To_Update_Existing_Topic_Using_Browser.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/domars/Directions_To_Update_Existing_Topic_Using_Browser.md)
-* Status: HandedOffSuccess
+* Status: ArchivedSuccess
 * Target File: 
 * Handoff File: [Directions_To_Update_Existing_Topic_Using_Browser.467f0472275ff2bf87dc67094be537d8ed3ee882.ja-jp.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/abc28cad179de3763e0539fcdf3986672cca4b05/ol-handoff/en-us.wdg-cpub-test/Directions_To_Update_Existing_Topic_Using_Browser.467f0472275ff2bf87dc67094be537d8ed3ee882.ja-jp.xlf)
 * Handoff Datetime: 2016-10-25 00:09:25
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [Directions_To_Update_Existing_Topic_Using_Browser.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/6be80f4e07fad61b9df466be59629d47777ae785/ol-archive/en-us.wdg-cpub-test/wdg-cpub-test/domars/Directions_To_Update_Existing_Topic_Using_Browser.xlf)
+* Archive Datetime: 2016-10-26 21:31:21
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -5190,13 +5190,13 @@
 * [Back to Top](#report-top)
 
 ##### <a name='d95b5b3cbef2c509c1ba71b6aa0160e169ca8613220'></a> Source: [wdg-cpub-test\iawilt\iawilt_test\test.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/iawilt/iawilt_test/test.md)
-* Status: HandedOffSuccess
+* Status: ArchivedSuccess
 * Target File: 
 * Handoff File: [test.32f64f5d1fb6a6d1c28f2fdcde27666d5ae6d241.ja-jp.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/abc28cad179de3763e0539fcdf3986672cca4b05/ol-handoff/en-us.wdg-cpub-test/test.32f64f5d1fb6a6d1c28f2fdcde27666d5ae6d241.ja-jp.xlf)
 * Handoff Datetime: 2016-10-25 00:09:25
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [test.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/6be80f4e07fad61b9df466be59629d47777ae785/ol-archive/en-us.wdg-cpub-test/wdg-cpub-test/iawilt/iawilt_test/test.xlf)
+* Archive Datetime: 2016-10-26 21:31:21
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -5265,157 +5265,157 @@
 * [Back to Top](#report-top)
 
 ##### <a name='cbb6ae5c57d8d761681fb03d14a954f90221f4f3226'></a> Source: [wdg-cpub-test\jasgro\JasGro-home.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/jasgro/JasGro-home.md)
-* Status: HandedOffSuccess
+* Status: ArchivedSuccess
 * Target File: 
 * Handoff File: [JasGro-home.ba84114f220b838b887e90f9f4cd08731827ca7e.ja-jp.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/abc28cad179de3763e0539fcdf3986672cca4b05/ol-handoff/en-us.wdg-cpub-test/JasGro-home.ba84114f220b838b887e90f9f4cd08731827ca7e.ja-jp.xlf)
 * Handoff Datetime: 2016-10-25 00:09:25
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [JasGro-home.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/6be80f4e07fad61b9df466be59629d47777ae785/ol-archive/en-us.wdg-cpub-test/wdg-cpub-test/jasgro/JasGro-home.xlf)
+* Archive Datetime: 2016-10-26 21:31:21
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
 ##### <a name='c63d097a2994905d3bd60489a77501cb88f8b3e4227'></a> Source: [wdg-cpub-test\jasgro\table_creation_tools.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/jasgro/table_creation_tools.md)
-* Status: HandedOffSuccess
+* Status: ArchivedSuccess
 * Target File: 
 * Handoff File: [table_creation_tools.5ac47164b84c765dfffb92438e12fbe35019767e.ja-jp.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/abc28cad179de3763e0539fcdf3986672cca4b05/ol-handoff/en-us.wdg-cpub-test/table_creation_tools.5ac47164b84c765dfffb92438e12fbe35019767e.ja-jp.xlf)
 * Handoff Datetime: 2016-10-25 00:09:25
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [table_creation_tools.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/6be80f4e07fad61b9df466be59629d47777ae785/ol-archive/en-us.wdg-cpub-test/wdg-cpub-test/jasgro/table_creation_tools.xlf)
+* Archive Datetime: 2016-10-26 21:31:21
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
 ##### <a name='debc9d4a4e6dc2685ec69918dab690b9f1fc010b228'></a> Source: [wdg-cpub-test\jasgro\test1.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/jasgro/test1.md)
-* Status: HandedOffSuccess
+* Status: ArchivedSuccess
 * Target File: 
 * Handoff File: [test1.7f0f552458431654d6ec10125262b97426875375.ja-jp.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/abc28cad179de3763e0539fcdf3986672cca4b05/ol-handoff/en-us.wdg-cpub-test/test1.7f0f552458431654d6ec10125262b97426875375.ja-jp.xlf)
 * Handoff Datetime: 2016-10-25 00:09:25
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [test1.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/6be80f4e07fad61b9df466be59629d47777ae785/ol-archive/en-us.wdg-cpub-test/wdg-cpub-test/jasgro/test1.xlf)
+* Archive Datetime: 2016-10-26 21:31:21
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
 ##### <a name='647ebfda6781b808b9ac43674f5033240c554c50229'></a> Source: [wdg-cpub-test\jasgro\test2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/jasgro/test2.md)
-* Status: HandedOffSuccess
+* Status: ArchivedSuccess
 * Target File: 
 * Handoff File: [test2.07a4be2c106a040b3bdba866b593683135789f3f.ja-jp.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/abc28cad179de3763e0539fcdf3986672cca4b05/ol-handoff/en-us.wdg-cpub-test/test2.07a4be2c106a040b3bdba866b593683135789f3f.ja-jp.xlf)
 * Handoff Datetime: 2016-10-25 00:09:25
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [test2.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/6be80f4e07fad61b9df466be59629d47777ae785/ol-archive/en-us.wdg-cpub-test/wdg-cpub-test/jasgro/test2.xlf)
+* Archive Datetime: 2016-10-26 21:31:21
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
 ##### <a name='e0dd374c1c5c5936fb4ebc3ee7d0e48e308d1cbb230'></a> Source: [wdg-cpub-test\jasgro\tools-for-beginners.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/jasgro/tools-for-beginners.md)
-* Status: HandedOffSuccess
+* Status: ArchivedSuccess
 * Target File: 
 * Handoff File: [tools-for-beginners.c71176847e2ebf0c8813ff5acbcc8f660f8adee2.ja-jp.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/abc28cad179de3763e0539fcdf3986672cca4b05/ol-handoff/en-us.wdg-cpub-test/tools-for-beginners.c71176847e2ebf0c8813ff5acbcc8f660f8adee2.ja-jp.xlf)
 * Handoff Datetime: 2016-10-25 00:09:25
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [tools-for-beginners.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/6be80f4e07fad61b9df466be59629d47777ae785/ol-archive/en-us.wdg-cpub-test/wdg-cpub-test/jasgro/tools-for-beginners.xlf)
+* Archive Datetime: 2016-10-26 21:31:21
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
 ##### <a name='349ce1064b5a40ff1b65f37fbf8d7fc136d78556231'></a> Source: [wdg-cpub-test\joshbax\HelloWorld.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/joshbax/HelloWorld.md)
-* Status: HandedOffSuccess
+* Status: ArchivedSuccess
 * Target File: 
 * Handoff File: [HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.ja-jp.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/abc28cad179de3763e0539fcdf3986672cca4b05/ol-handoff/en-us.wdg-cpub-test/HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.ja-jp.xlf)
 * Handoff Datetime: 2016-10-25 00:09:25
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [HelloWorld.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/6be80f4e07fad61b9df466be59629d47777ae785/ol-archive/en-us.wdg-cpub-test/wdg-cpub-test/joshbax/HelloWorld.xlf)
+* Archive Datetime: 2016-10-26 21:31:21
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
 ##### <a name='349ce1064b5a40ff1b65f37fbf8d7fc136d78556232'></a> Source: [wdg-cpub-test\joshbax\HelloWorld2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/c8acdbf0107af1f782d1f4316d6ba408bc5f8430/wdg-cpub-test/joshbax/HelloWorld2.md)
-* Status: HandedOffSuccess
+* Status: ArchivedSuccess
 * Target File: 
 * Handoff File: [HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.ja-jp.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/abc28cad179de3763e0539fcdf3986672cca4b05/ol-handoff/en-us.wdg-cpub-test/HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.ja-jp.xlf)
 * Handoff Datetime: 2016-10-25 00:09:25
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [HelloWorld.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/6be80f4e07fad61b9df466be59629d47777ae785/ol-archive/en-us.wdg-cpub-test/wdg-cpub-test/joshbax/HelloWorld.xlf)
+* Archive Datetime: 2016-10-26 21:31:21
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
 ##### <a name='349ce1064b5a40ff1b65f37fbf8d7fc136d78556233'></a> Source: [wdg-cpub-test\joshbax\HelloWorld3.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/c8acdbf0107af1f782d1f4316d6ba408bc5f8430/wdg-cpub-test/joshbax/HelloWorld3.md)
-* Status: HandedOffSuccess
+* Status: ArchivedSuccess
 * Target File: 
 * Handoff File: [HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.ja-jp.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/abc28cad179de3763e0539fcdf3986672cca4b05/ol-handoff/en-us.wdg-cpub-test/HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.ja-jp.xlf)
 * Handoff Datetime: 2016-10-25 00:09:25
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [HelloWorld.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/6be80f4e07fad61b9df466be59629d47777ae785/ol-archive/en-us.wdg-cpub-test/wdg-cpub-test/joshbax/HelloWorld.xlf)
+* Archive Datetime: 2016-10-26 21:31:21
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
 ##### <a name='349ce1064b5a40ff1b65f37fbf8d7fc136d78556234'></a> Source: [wdg-cpub-test\joshbax\HelloWorld4.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/c8acdbf0107af1f782d1f4316d6ba408bc5f8430/wdg-cpub-test/joshbax/HelloWorld4.md)
-* Status: HandedOffSuccess
+* Status: ArchivedSuccess
 * Target File: 
 * Handoff File: [HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.ja-jp.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/abc28cad179de3763e0539fcdf3986672cca4b05/ol-handoff/en-us.wdg-cpub-test/HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.ja-jp.xlf)
 * Handoff Datetime: 2016-10-25 00:09:25
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [HelloWorld.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/6be80f4e07fad61b9df466be59629d47777ae785/ol-archive/en-us.wdg-cpub-test/wdg-cpub-test/joshbax/HelloWorld.xlf)
+* Archive Datetime: 2016-10-26 21:31:21
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
 ##### <a name='349ce1064b5a40ff1b65f37fbf8d7fc136d78556235'></a> Source: [wdg-cpub-test\joshbax\HelloWorld5.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/c8acdbf0107af1f782d1f4316d6ba408bc5f8430/wdg-cpub-test/joshbax/HelloWorld5.md)
-* Status: HandedOffSuccess
+* Status: ArchivedSuccess
 * Target File: 
 * Handoff File: [HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.ja-jp.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/abc28cad179de3763e0539fcdf3986672cca4b05/ol-handoff/en-us.wdg-cpub-test/HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.ja-jp.xlf)
 * Handoff Datetime: 2016-10-25 00:09:25
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [HelloWorld.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/6be80f4e07fad61b9df466be59629d47777ae785/ol-archive/en-us.wdg-cpub-test/wdg-cpub-test/joshbax/HelloWorld.xlf)
+* Archive Datetime: 2016-10-26 21:31:21
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
 ##### <a name='fa27b37a6be2f8e0887ce2a56559c5c4c943fdac236'></a> Source: [wdg-cpub-test\lizross\available_policies.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/lizross/available_policies.md)
-* Status: HandedOffSuccess
+* Status: ArchivedSuccess
 * Target File: 
 * Handoff File: [available_policies.ff49108befeca60e0cb8e2a505ce332559123ced.ja-jp.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/abc28cad179de3763e0539fcdf3986672cca4b05/ol-handoff/en-us.wdg-cpub-test/available_policies.ff49108befeca60e0cb8e2a505ce332559123ced.ja-jp.xlf)
 * Handoff Datetime: 2016-10-25 00:09:25
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [available_policies.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/6be80f4e07fad61b9df466be59629d47777ae785/ol-archive/en-us.wdg-cpub-test/wdg-cpub-test/lizross/available_policies.xlf)
+* Archive Datetime: 2016-10-26 21:31:21
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
 ##### <a name='2df16f5bb8361cadf656d1e62eddf9aba2ceb458237'></a> Source: [wdg-cpub-test\lizross\emie_to_improve_compatibility.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/lizross/emie_to_improve_compatibility.md)
-* Status: HandedOffSuccess
+* Status: ArchivedSuccess
 * Target File: 
 * Handoff File: [emie_to_improve_compatibility.01466982c77753bd70eee0c62860ff289eab85fd.ja-jp.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/abc28cad179de3763e0539fcdf3986672cca4b05/ol-handoff/en-us.wdg-cpub-test/emie_to_improve_compatibility.01466982c77753bd70eee0c62860ff289eab85fd.ja-jp.xlf)
 * Handoff Datetime: 2016-10-25 00:09:25
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [emie_to_improve_compatibility.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/6be80f4e07fad61b9df466be59629d47777ae785/ol-archive/en-us.wdg-cpub-test/wdg-cpub-test/lizross/emie_to_improve_compatibility.xlf)
+* Archive Datetime: 2016-10-26 21:31:21
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
 ##### <a name='5d05b35b340b2dfcb038c9e10880f3c5a902c777238'></a> Source: [wdg-cpub-test\lizross\hardware_and_software_requirements.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/lizross/hardware_and_software_requirements.md)
-* Status: HandedOffSuccess
+* Status: ArchivedSuccess
 * Target File: 
 * Handoff File: [hardware_and_software_requirements.b95d588b7b44b2bbc115562bda4a63386f1b62fb.ja-jp.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/abc28cad179de3763e0539fcdf3986672cca4b05/ol-handoff/en-us.wdg-cpub-test/hardware_and_software_requirements.b95d588b7b44b2bbc115562bda4a63386f1b62fb.ja-jp.xlf)
 * Handoff Datetime: 2016-10-25 00:09:25
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [hardware_and_software_requirements.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/6be80f4e07fad61b9df466be59629d47777ae785/ol-archive/en-us.wdg-cpub-test/wdg-cpub-test/lizross/hardware_and_software_requirements.xlf)
+* Archive Datetime: 2016-10-26 21:31:21
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -5473,25 +5473,25 @@
 * [Back to Top](#report-top)
 
 ##### <a name='83798705e69956b02a318460bed8affa5c0e7c79243'></a> Source: [wdg-cpub-test\lizross\msedge_deployment_guide_for_it_pros.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/lizross/msedge_deployment_guide_for_it_pros.md)
-* Status: HandedOffSuccess
+* Status: ArchivedSuccess
 * Target File: 
 * Handoff File: [msedge_deployment_guide_for_it_pros.b5fb018fe51efcf49ab261fda90e80e2c708e2c5.ja-jp.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/abc28cad179de3763e0539fcdf3986672cca4b05/ol-handoff/en-us.wdg-cpub-test/msedge_deployment_guide_for_it_pros.b5fb018fe51efcf49ab261fda90e80e2c708e2c5.ja-jp.xlf)
 * Handoff Datetime: 2016-10-25 00:09:25
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [msedge_deployment_guide_for_it_pros.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/6be80f4e07fad61b9df466be59629d47777ae785/ol-archive/en-us.wdg-cpub-test/wdg-cpub-test/lizross/msedge_deployment_guide_for_it_pros.xlf)
+* Archive Datetime: 2016-10-26 21:31:21
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
 ##### <a name='7bba6bedea2fc998a7102e9f9a822c89f580921c244'></a> Source: [wdg-cpub-test\macapara\macapara.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/macapara/macapara.md)
-* Status: HandedOffSuccess
+* Status: ArchivedSuccess
 * Target File: 
 * Handoff File: [macapara.1f4a6c8a550f2dadc79422a1faf545785d5e7174.ja-jp.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/abc28cad179de3763e0539fcdf3986672cca4b05/ol-handoff/en-us.wdg-cpub-test/macapara.1f4a6c8a550f2dadc79422a1faf545785d5e7174.ja-jp.xlf)
 * Handoff Datetime: 2016-10-25 00:09:25
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [macapara.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/6be80f4e07fad61b9df466be59629d47777ae785/ol-archive/en-us.wdg-cpub-test/wdg-cpub-test/macapara/macapara.xlf)
+* Archive Datetime: 2016-10-26 21:31:21
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -29715,49 +29715,49 @@
 * [Back to Top](#report-top)
 
 ##### <a name='c24bc1363e530c71c8a263f6e9c8743a949642d82258'></a> Source: [wdg-cpub-test\tedhudek\markdown-tips.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/tedhudek/markdown-tips.md)
-* Status: HandedOffSuccess
+* Status: ArchivedSuccess
 * Target File: 
 * Handoff File: [markdown-tips.0223efeae412507af7c4547e7e0aa549e87ea60a.ja-jp.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/abc28cad179de3763e0539fcdf3986672cca4b05/ol-handoff/en-us.wdg-cpub-test/markdown-tips.0223efeae412507af7c4547e7e0aa549e87ea60a.ja-jp.xlf)
 * Handoff Datetime: 2016-10-25 00:09:25
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [markdown-tips.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/6be80f4e07fad61b9df466be59629d47777ae785/ol-archive/en-us.wdg-cpub-test/wdg-cpub-test/tedhudek/markdown-tips.xlf)
+* Archive Datetime: 2016-10-26 21:31:21
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
 ##### <a name='347bd1181dc590d634f5032591cc574f3786c9822259'></a> Source: [wdg-cpub-test\tedhudek\tedhudek-home.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/tedhudek/tedhudek-home.md)
-* Status: HandedOffSuccess
+* Status: ArchivedSuccess
 * Target File: 
 * Handoff File: [tedhudek-home.cd82e1b999ca1e8e89601b96d7b6ed332d44c137.ja-jp.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/abc28cad179de3763e0539fcdf3986672cca4b05/ol-handoff/en-us.wdg-cpub-test/tedhudek-home.cd82e1b999ca1e8e89601b96d7b6ed332d44c137.ja-jp.xlf)
 * Handoff Datetime: 2016-10-25 00:09:25
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [tedhudek-home.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/6be80f4e07fad61b9df466be59629d47777ae785/ol-archive/en-us.wdg-cpub-test/wdg-cpub-test/tedhudek/tedhudek-home.xlf)
+* Archive Datetime: 2016-10-26 21:31:21
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
 ##### <a name='65a5708190ddfe0bc61006985f5c3f17eafc86562260'></a> Source: [wdg-cpub-test\tedhudek\wdcml-to-open-publish.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/tedhudek/wdcml-to-open-publish.md)
-* Status: HandedOffSuccess
+* Status: ArchivedSuccess
 * Target File: 
 * Handoff File: [wdcml-to-open-publish.a4dd794f0bf7ce39cc12ecded434499fcb86d4f4.ja-jp.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/abc28cad179de3763e0539fcdf3986672cca4b05/ol-handoff/en-us.wdg-cpub-test/wdcml-to-open-publish.a4dd794f0bf7ce39cc12ecded434499fcb86d4f4.ja-jp.xlf)
 * Handoff Datetime: 2016-10-25 00:09:25
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [wdcml-to-open-publish.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/6be80f4e07fad61b9df466be59629d47777ae785/ol-archive/en-us.wdg-cpub-test/wdg-cpub-test/tedhudek/wdcml-to-open-publish.xlf)
+* Archive Datetime: 2016-10-26 21:31:21
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
 ##### <a name='6a21b92dfe46a00d5243914c41459fe2cf4569b12261'></a> Source: [wdg-cpub-test\tedhudek\workflow.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/tedhudek/workflow.md)
-* Status: HandedOffSuccess
+* Status: ArchivedSuccess
 * Target File: 
 * Handoff File: [workflow.c81c0151d66bf0be9587301c3f7e2255d13a9e00.ja-jp.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/abc28cad179de3763e0539fcdf3986672cca4b05/ol-handoff/en-us.wdg-cpub-test/workflow.c81c0151d66bf0be9587301c3f7e2255d13a9e00.ja-jp.xlf)
 * Handoff Datetime: 2016-10-25 00:09:25
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [workflow.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/6be80f4e07fad61b9df466be59629d47777ae785/ol-archive/en-us.wdg-cpub-test/wdg-cpub-test/tedhudek/workflow.xlf)
+* Archive Datetime: 2016-10-26 21:31:21
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -29787,13 +29787,13 @@
 * [Back to Top](#report-top)
 
 ##### <a name='1a4983ce48e441c39272f65d1655d8c7ca2b49702264'></a> Source: [wdg-cpub-test\TOC.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4fca91783d91b3be989b97d2efaa6eeb22503495/wdg-cpub-test/TOC.md)
-* Status: HandedOffSuccess
+* Status: ArchivedSuccess
 * Target File: 
 * Handoff File: [TOC.a9ee67cb4f35ab2cb1a9b412181346e45899f313.ja-jp.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/abc28cad179de3763e0539fcdf3986672cca4b05/ol-handoff/en-us.wdg-cpub-test/TOC.a9ee67cb4f35ab2cb1a9b412181346e45899f313.ja-jp.xlf)
 * Handoff Datetime: 2016-10-25 00:09:25
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [TOC.xlf](https://github.com/OpenLocalizationOrg/wdg-cpub-handoff-test/blob/6be80f4e07fad61b9df466be59629d47777ae785/ol-archive/en-us.wdg-cpub-test/wdg-cpub-test/TOC.xlf)
+* Archive Datetime: 2016-10-26 21:31:21
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
