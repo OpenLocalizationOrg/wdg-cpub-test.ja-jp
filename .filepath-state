@@ -525,6 +525,9 @@
   "3ce2fdf00618bcc50d2d3b9454a1c522096e9053": [
     "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\TargetPlatform.png"
   ],
+  "dffd6014ca27fa4c72b0763ad776d7fd24e7ea3e": [
+    "wdg-cpub-test\\Welcome.md"
+  ],
   "c488f0d1762f69f5847b30d927a95a8954e09c3c": [
     "wdg-cpub-test\\Welcome.md"
   ],
@@ -539,13 +542,13 @@
     "wdg-cpub-test\\ndolci1\\devices-sensors\\aep-service-class-ids.md",
     "wdg-cpub-test\\ndolci2\\devices-sensors\\aep-service-class-ids.md"
   ],
-  "0b09a8c2db2f5b95c859ebc9fca1836648495317": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\bluetooth.md"
-  ],
   "75d55b591cd207215302b327b520f2eb0ab5fb93": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\bluetooth.md",
     "wdg-cpub-test\\ndolci1\\devices-sensors\\bluetooth.md",
     "wdg-cpub-test\\ndolci2\\devices-sensors\\bluetooth.md"
+  ],
+  "0b09a8c2db2f5b95c859ebc9fca1836648495317": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\bluetooth.md"
   ],
   "fdc5470c3b2e911f370e6f2b26a0c1608f194cab": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\build-a-device-selector.md",
